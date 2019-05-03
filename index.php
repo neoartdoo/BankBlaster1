@@ -1,5 +1,5 @@
 <?php
 
 ?>
-<iframe src="opening.html" width="500" height="997"> - </iframe>
+<iframe src="opening.html" width="500" height="900"> - </iframe>
 
