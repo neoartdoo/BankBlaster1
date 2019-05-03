@@ -1,3 +1,5 @@
+<?php #neoart.rs
+?>
 <!DOCTYPE html>
 <html>
     <head>
